@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+psycopg2-binary
+ib_insync
+matplotlib
+scipy
+pytest
+jupyter
+python-dotenv
